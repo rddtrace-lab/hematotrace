@@ -20,3 +20,4 @@ The GitHub commit time of this file is the public timestamp. Later additions are
 
 ## Log
 - 2026-10-21: initial assignment hashes (above).
+- 2026-10-26: GSE154918 admission samples assigned (91: 47 confirm, 44 explore; follow-up samples excluded), same rule and seed; earlier assignments unchanged (958 of 958). Code-repository commit `7b33b1f` (2026-10-26 13:04:40 -0400). sha256 `splits/persons.tsv` `b0723048d4a408df18e25b944d23fef8dd0275c09bbb182d341670c033a5dd73`, sha256 `splits/runs.tsv` `df9b43466d4cdb7935b25051dcffdbf4ee6d0f63e8c5206cc940ed8eeaf94893`.
